@@ -20,9 +20,10 @@
 Выполнив команду "Run", итоговый результат с учётом переменных типа <i>"double regularBonus"</i> и <i>"double specialBonus"</i> отличается от планируемого на 0,0000000000000001
 
 1. 0% успешных тестов
-2. Issue:
+2. Issue: https://github.com/Smootiq/Java_Homework2.2/issues/1
 
 ## Общие рекомендации
-Исправить команду вывода сообщений в консоль
-> <i>System.out.println(totalBonus); </i>
-Проверить корректность переменной типа <i>"double"</i>
+* Исправить команду вывода сообщений в консоль
+> <i>System.out.println(totalBonus); </i> <br>
+> 
+* Проверить корректность переменной типа <i>"double"</i>
